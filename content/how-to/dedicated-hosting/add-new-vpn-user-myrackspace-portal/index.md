@@ -15,6 +15,8 @@ Adding new client VPN users is now an automated task within the MyRackspace
 Portal. This article describes how to add a new VPN user by using a ticket
 template.
 
+If you are using the new Fabric Ticketing UI, you will need to select a firewall in the device selection found in step 2 to see the Add VPN user common request.
+
 ### Create a ticket in the MyRackspace Portal
 
 1. Log in to the [MyRackspace Portal](https://login.rackspace.com) by using your
